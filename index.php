@@ -1,1 +1,3 @@
-lorem ipsum dolor sit amet
+<?php
+
+	echo "hello, git";
